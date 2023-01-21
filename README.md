@@ -27,11 +27,11 @@ https://facebook.github.io/prophet/docs/installation.html
 
 Pip install streamlit prophet yfinance dash
 
-Order :
-streamlit - for single page application
-yfianance - for stock market data
-pandas - fr data represantation
-plotly - for data visualisation and forecasting
-fbprofet - for similar to sklearn api 
-forcasting data and components
-might detect outliers
+Order :<br />
+streamlit - for single page application<br />
+yfianance - for stock market data<br />
+pandas - fr data represantation<br />
+plotly - for data visualisation and forecasting<br />
+fbprofet - for similar to sklearn api <br />
+forcasting data and components<br />
+might detect outliers<br />
