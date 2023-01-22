@@ -32,6 +32,4 @@ streamlit - for single page application<br />
 yfianance - for stock market data<br />
 pandas - fr data represantation<br />
 plotly - for data visualisation and forecasting<br />
-fbprofet - for similar to sklearn api <br />
-forcasting data and components<br />
-might detect outliers<br />
+fbprofet - for similar to sklearn api forcasting data and components might detect outliers
