@@ -24,6 +24,8 @@ https://pypi.org/project/yfinance/
 Plotly:
 https://facebook.github.io/prophet/docs/installation.html
 
+kaggle
+https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm
 
 Pip install streamlit prophet yfinance dash
 
