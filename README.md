@@ -1,8 +1,7 @@
 # Visualising-and-Forecasting-Stocks
 
-FYP resources:<br>
+FYP resources:
 https://drive.google.com/drive/folders/1phGb9jXRDkvJlo0DCndHCDC9oqgnSObo<br>
-https://drive.google.com/drive/u/0/folders/1TS6PS3KB-ybqXGNUPHzvDmQh4Yf0CnZh(OLD)
 
 Report Final
 https://docs.google.com/document/d/1oZo_ubZJ71eIL0FtOlnqq9nFfMsPE1ge/edit
