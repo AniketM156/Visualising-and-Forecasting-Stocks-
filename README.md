@@ -29,6 +29,9 @@ https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-ls
 
 Pip install streamlit prophet yfinance dash
 
+LSTM :
+https://towardsdatascience.com/lstm-networks-a-detailed-explanation-8fae6aefc7f9
+
 Order :<br />
 streamlit - for single page application<br />
 yfianance - for stock market data<br />
