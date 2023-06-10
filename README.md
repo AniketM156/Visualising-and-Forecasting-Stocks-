@@ -9,11 +9,6 @@ LSTM is a type of recurrent neural network (RNN) that can effectively capture lo
 Flutter is a popular framework for building cross-platform mobile applications with a single codebase which was used to built the frontend application.<br>
 
 Techstack :<br>
-TensorFlow<br>
-Keras<br>
-Pandas<br>
-Numpy<br>
-Python<br>
-Flutter<br>
+TensorFlow, Keras, Pandas, Numpy, Python, Flutter.
 
 
