@@ -1,0 +1,14 @@
+FYP resources:
+https://drive.google.com/drive/folders/1phGb9jXRDkvJlo0DCndHCDC9oqgnSObo<br>
+
+Report Final
+https://docs.google.com/document/d/1oZo_ubZJ71eIL0FtOlnqq9nFfMsPE1ge/edit
+
+Pppt final
+https://docs.google.com/presentation/d/1kJ3my_yleo6tUwoIux5DgFtRoLBx9PmmvJg3YsSab_c/edit#slide=id.g1baff0281ee_10_133
+
+Yfiance:
+https://pypi.org/project/yfinance/
+
+LSTM :
+https://towardsdatascience.com/lstm-networks-a-detailed-explanation-8fae6aefc7f9

@@ -1,6 +1,14 @@
 pandas
-pandas_datareader
 numpy
+keras
+math
+yfinance
 tensorflow
 matplotlib.pyplot
-keras
+pandas_datareader
+sklearn.metrics
+matplotlib.pyplot
+
+// from keras.models import Sequential
+// from keras.layers import Dense
+// from keras.layers import LSTM
